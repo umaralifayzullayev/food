@@ -1,7 +1,12 @@
 // base
 @import "_base/fonts";
 @import "_base/reset";
+@import "_base/vars-mixins";
 @import "_base/generals";
 
 // blocks
+@import "_blocks/nav";
 @import "_blocks/header";
+@import "_blocks/search-form";
+@import "_blocks/menu";
+@import "_blocks/list";
