@@ -3,6 +3,7 @@ body {
 	font-family: "FF Nort";
 	font-weight: 500;
 	font-size: 16px;
+	line-height: normal;
 }
 
 [class$="container"] {
@@ -16,3 +17,5 @@ body {
 	grid-template-columns: 1fr 6fr;
 }
 
+.menu {
+}
